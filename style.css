@@ -4,6 +4,7 @@
 .container-banner {
   display: flex;
   justify-content: space-evenly;
+  align-items: center;
 }
 .header-1 {
   margin-top: 50px;
